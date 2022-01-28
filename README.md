@@ -1,2 +1,2 @@
 # Shulc-Clicker
-Game about one stupid Szulc
+Click the Shulc
